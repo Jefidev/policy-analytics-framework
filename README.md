@@ -1,2 +1,4 @@
 # OpinionMining
-Repository containing the code for the data analysis performed in my opinion mining paper
+This repository contains the code and the data used in our paper.
+
+The data are available under the folder "data" and the code is in "notebooks/data-analysis.ipynb"
